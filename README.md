@@ -49,9 +49,6 @@ This project dives deep into the world of music data using a cleaned dataset fro
 - **Language:** SQL, DAX (Power BI)
 - **Tools:** Power BI Desktop, pgAdmin
 
-## 🚀 How to Run Locally
+---
+🔗 Connect with me on [LinkedIn](https://linkedin.com/in/gonepraveen)
 
-1. Clone the repository or download ZIP:
-   ```bash
-   git clone https://github.com/praveen5102/spotify-music-insights-dashboard.git
-   cd spotify-music-insights-dashboard
