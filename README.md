@@ -11,7 +11,7 @@ This project dives deep into the world of music data using a cleaned dataset fro
 
 ## 🖥 Dashboard Preview
 
-![Dashboard Preview](Spotify & YouTube Music Insights Dashboard.png)
+![Dashboard Preview](Spotify_Dashboard.png)
 
 ## 📁 Dataset Used
 
